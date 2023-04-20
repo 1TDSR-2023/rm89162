@@ -1,3 +1,6 @@
+@import url("./cabecalho.css");
+@import url("./conteudo.css");
+
 * {
     margin: 0;
     padding: 0;
@@ -12,7 +15,7 @@ html {
     font-size: 70%;
 }
 
-.cabecalho {
+/* .cabecalho {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -73,4 +76,4 @@ html {
 
 .conteudo p {
     font-size: 4rem;
-}
+} */
